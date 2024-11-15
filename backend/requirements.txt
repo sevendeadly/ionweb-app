@@ -1,0 +1,8 @@
+Flask==2.0.3
+psycopg2-binary==2.9.9
+pytest==7.0.1
+pytest-cov==4.1.0
+black==23.12.1
+flake8==7.0.0
+isort==5.13.2
+werkzeug==2.0.3
